@@ -1,5 +1,5 @@
 
-from Networksecurity.exceptions.exception import NetworkSecurityException
+from Networksecurity.exception.exception import NetworkSecurityException
 
 from Networksecurity.entity.config_entity import DataIngestionConfig
 
