@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/WORK/Projects/Network-Security/mlruns/0/3f5f3be0000c4176bf408bc54beda944/artifacts
+end_time: 1753764073668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f5f3be0000c4176bf408bc54beda944
+run_name: colorful-foal-455
+run_uuid: 3f5f3be0000c4176bf408bc54beda944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753764059502
+status: 3
+tags: []
+user_id: Chris
