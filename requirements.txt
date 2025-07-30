@@ -1,11 +1,13 @@
 python-dotenv
 pandas
 numpy
-pymongo
+pymongo==4.13.2
 certifi
-pymongo[srv]==3.6 
 scikit-learn
 pyaml
 mlflow==2.20.2
 dagshub
+fastapi
+uvicorn
+python-multipart
 ## -e .
